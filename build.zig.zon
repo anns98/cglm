@@ -1,0 +1,11 @@
+.{
+    .name = .cglm,
+    .version = "0.0.0",
+    // .fingerprint = 0x0,
+    .paths = .{
+        "include/",
+        "src/",
+        "build.zig",
+        "build.zig.zon",
+    },
+}
